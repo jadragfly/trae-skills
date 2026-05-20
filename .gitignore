@@ -1,0 +1,25 @@
+# TRAE IDE
+.trae/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives (optional - uncomment if you want to ignore)
+# *.zip
+# *.rar
