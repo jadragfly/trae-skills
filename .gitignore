@@ -20,6 +20,13 @@ env/
 .DS_Store
 Thumbs.db
 
+# SSH Keys (but keep config)
+*.key
+*.pub
+id_*
+gitkey*
+github_key*
+
 # Archives (optional - uncomment if you want to ignore)
 # *.zip
 # *.rar
